@@ -1,4 +1,4 @@
-# reward-points
+# Magento 2 Reward Points extension
 
 ## Intro
 After running your e-Commerce store long enough and your business reaches the stable period, keeping customer’s loyalty becomes more important than attracting visitors. To helps Magento merchants meet the need of their developing stores, Magento 2 Reward Points extension has been brought to practice to create the best loyalty program of all time.
